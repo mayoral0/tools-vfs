@@ -1,0 +1,31 @@
+{
+  "name": "tools-vfs",
+  "version": "1.0.0",
+  "description": "tools virtual file system",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "keywords": [
+    "tools",
+    "fs",
+    "filesystem"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayoral0/tools-vfs.git"
+  },
+  "dependencies": {
+    "my-crypto-core": "^1.0.0",
+    "tools-events": "^1.0.0",
+    "tools-ts": "^1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/mayoral0/tools-vfs/issues"
+  },
+  "homepage": "https://github.com/mayoral0/tools-vfs#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
